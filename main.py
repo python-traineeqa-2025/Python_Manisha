@@ -22,3 +22,10 @@ elif cal == 2:
     print(a-b)
 else:
     print(a*b)
+
+#Greatest Number
+
+if a>b:
+    print("A is greatest")
+else:
+    print("B is greatest")
