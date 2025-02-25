@@ -1,3 +1,5 @@
+#inputs flow in python
+
 inputs = input("Enter space-separated values: ").split()
 print(inputs)
 
