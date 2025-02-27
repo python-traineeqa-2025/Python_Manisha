@@ -65,4 +65,3 @@ def cal_odd_even(a):
 num = int(input("Enter the number:"))
 cal_odd_even(num)
 
-
